@@ -4,9 +4,7 @@ function Nav() {
   return (
     <div>
       <nav className="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-        <a className="navbar-brand" href="#">
-          Fixed navbar
-        </a>
+        <a className="navbar-brand" href="#"></a>
         <button
           className="navbar-toggler"
           type="button"
